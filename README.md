@@ -1,2 +1,2 @@
-# breast-sono-vision
-BreastSonoVision: An AI-powered deep learning project for breast ultrasound image segmentation
+# BreastSonoVision: An AI-powered deep learning project for breast ultrasound image segmentation
+Utilizing advanced computer vision techniques, it accurately detects and delineates breast abnormalities, assisting in early diagnosis and medical research. Trained on a diverse dataset, **BreastSonoVision** aims to enhance ultrasound-based breast cancer detection through automated and reliable segmentation. 🚀🔬
