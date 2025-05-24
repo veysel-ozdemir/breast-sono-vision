@@ -114,7 +114,7 @@ The application features a comprehensive user interface including:
 - Detailed result visualization
 - Settings and preferences management
 
-**Repository**: [breast-sono-vision-mobile](./breast-sono-vision-mobile/)
+**Repository**: [breast-sono-vision-mobile](https://github.com/veysel-ozdemir/breast-sono-vision-mobile)
 
 ---
 
@@ -150,7 +150,7 @@ The API supports flexible configuration through environment variables:
 - `MODEL_FOLD`: Training fold configuration
 - `PORT`: API service port (default: 5050)
 
-**Repository**: [nnUNet](./nnUNet/)
+**Repository**: [nnUNet](https://github.com/veysel-ozdemir/nnUNet)
 
 ---
 
