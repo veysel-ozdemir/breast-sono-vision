@@ -1,0 +1,6 @@
+[submodule "nnUNet"]
+	path = nnUNet
+	url = https://github.com/veysel-ozdemir/nnUNet.git
+[submodule "breast-sono-vision-mobile"]
+	path = breast-sono-vision-mobile
+	url = https://github.com/veysel-ozdemir/breast-sono-vision-mobile.git
